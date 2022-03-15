@@ -18,3 +18,5 @@ $ mvn package -Pcodecoverage
 BUILDING SAMPLEWAR COMPONENT
 $ cd samplewar
 $ mvn package
+
+###############
